@@ -1,0 +1,11 @@
+{
+  "name": "ibm_db-error-reproduction",
+  "version": "1.0.0",
+  "main": "app.js",
+  "repository": "https://github.com/TimonLukas/ibm_db-error-reproduction.git",
+  "author": "Timon Lukas <timon.lukas@de.ibm.com>",
+  "license": "MIT",
+  "dependencies": {
+    "ibm_db": "^2.7.1"
+  }
+}
